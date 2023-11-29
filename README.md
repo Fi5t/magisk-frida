@@ -1,5 +1,7 @@
 # MagiskFrida
 
+‼️This fork uses the custom frida build: https://github.com/hzzheyang/strongR-frida-android
+
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ViRb3/magisk-frida/main.yml?branch=master)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ViRb3/magisk-frida)
 ![GitHub downloads](https://img.shields.io/github/downloads/ViRb3/magisk-frida/total)
